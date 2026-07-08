@@ -1,0 +1,23 @@
+body {
+    background-color: #222831;
+    font-family: "Poppins", sans-serif;
+}
+
+.container{
+    max-width: 1248px;
+}
+.navbar {
+    padding: 48px 0;
+}
+nav .nav-link{
+    color: #eeeeee;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.nav-link:focus, .nav-link:hover{
+     color: #eeeeee;
+}
+nav ul{
+    gap: 48px;
+}
